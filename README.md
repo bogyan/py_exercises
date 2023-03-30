@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Completed homeworks from the 2022 Python for Machine Learning & Data Science Masterclass course
+Completed homework from python courses & my progress on Codewars ( ^-^ *)ノ https://www.codewars.com/users/Bogdan%20Yanovich/badges/large
 <br />
 
 
