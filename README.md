@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 Completed homework from python courses & my progress on Codewars ( ^-^ *)ノ 
-[<img align="left" alt="BogdanYanovich | LinkedIn" src="https://www.codewars.com/users/Bogdan%20Yanovich/badges/large" />][linkedin]
+[<img align="left" alt="BogdanYanovich | LinkedIn" src="https://www.codewars.com/users/Bogdan%20Yanovich/badges/large" />]
 <br />
 
 
