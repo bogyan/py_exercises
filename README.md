@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Completed homework from python courses & my progress on Codewars ( ^-^ *)ノ 
+Completed homework from python courses & my progress on Codewars
 <img align="left" alt="BogdanYanovich | LinkedIn" src="https://www.codewars.com/users/Bogdan%20Yanovich/badges/small" /> <br />
 https://www.codewars.com/users/Bogdan%20Yanovich
 <br />
