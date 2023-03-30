@@ -2,14 +2,15 @@
 
 
 <h2>Description</h2>
-Completed homeworks from the 2022 Python for Machine Learning &amp; Data Science Masterclass course
+Completed homeworks from the 2022 Python for Machine Learning & Data Science Masterclass course
 <br />
 
 
 <h2>Learned packages</h2>
 
-- <b>Numpy</b> 
+- <b>Re</b> 
+- <b>NumPy</b> 
 - <b>Pandas</b> 
-- <b>matplotlib</b> 
-- <b>seaborn</b> 
-- <b>scikit-learn</b> 
+- <b>Matplotlib</b> 
+- <b>Seaborn</b> 
+- <b>Scikit-learn</b> 
