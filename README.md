@@ -2,8 +2,8 @@
 
 
 <h2>Description</h2>
-Completed homework from python courses & my progress on Codewars
-<img align="left" alt="BogdanYanovich | LinkedIn" src="https://www.codewars.com/users/Bogdan%20Yanovich/badges/big" /> <br />
+Completed homework, some python projects & my progress on Codewars
+<img align="left" alt="BogdanYanovich | LinkedIn" src="https://www.codewars.com/users/Bogdan%20Yanovich/badges/small" /> <br />
 https://www.codewars.com/users/Bogdan%20Yanovich
 <br />
 
@@ -11,8 +11,12 @@ https://www.codewars.com/users/Bogdan%20Yanovich
 <h2>Learned packages</h2>
 
 - <b>Re</b> 
-- <b>NumPy</b> 
+- <b>NumPy</b>
+- <b>PyCaret</b> 
 - <b>Pandas</b> 
-- <b>Matplotlib</b> 
+- <b>Matplotlib</b>
+- <b>Plotly</b> 
 - <b>Seaborn</b> 
-- <b>Scikit-learn</b> 
+- <b>Scikit-learn</b>
+- <b>Keras</b>
+- <b>Tensorflow</b>
